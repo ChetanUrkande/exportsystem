@@ -1,5 +1,6 @@
 package testscript;
 // this is a comment section
+//this is also comment
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Point;
